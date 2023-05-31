@@ -1,0 +1,12 @@
+    .navbar {
+            box-shadow: 0 2px 15px rgba(0,0,0,0.1);
+        }
+        .navbar-brand {
+            font-weight: bold;
+        }
+        .nav-item {
+            margin-right: 15px;
+        }
+        .nav-link {
+            font-size: 1.1rem;
+        }
